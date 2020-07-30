@@ -1,0 +1,151 @@
+post pipeline
+pre coreDoc
+post coreDoc
+---
+entities found
+	detected entity: 	CNN	ORGANIZATION
+	detected entity: 	Moderna	ORGANIZATION
+	detected entity: 	National Institutes of Health	ORGANIZATION
+	detected entity: 	1	NUMBER
+	detected entity: 	Tuesday	DATE
+	detected entity: 	first	ORDINAL
+	detected entity: 	US	LOCATION
+	detected entity: 	later this month	DATE
+	detected entity: 	3	NUMBER
+	detected entity: 	Moderna	PERSON
+	detected entity: 	Tuesday	DATE
+	detected entity: 	future	DATE
+	detected entity: 	500 million	MONEY
+	detected entity: 	year	DURATION
+	detected entity: 	1 billion	MONEY
+	detected entity: 	year, beginning in 2021	DATE
+	detected entity: 	1	NUMBER
+	detected entity: 	Lisa Jackson	PERSON
+	detected entity: 	Kaiser Permanente Washington Health Research Institute	ORGANIZATION
+	detected entity: 	Seattle	LOCATION
+	detected entity: 	previously	DATE
+	detected entity: 	May	DATE
+	detected entity: 	she	PERSON
+	detected entity: 	Moderna	ORGANIZATION
+	detected entity: 	July 27	DATE
+	detected entity: 	Tuesday	DATE
+	detected entity: 	first	ORDINAL
+	detected entity: 	United States	LOCATION
+	detected entity: 	3	NUMBER
+	detected entity: 	now	DATE
+	detected entity: 	2	NUMBER
+	detected entity: 	3	NUMBER
+	detected entity: 	Jackson	PERSON
+	detected entity: 	1	NUMBER
+	detected entity: 	2	NUMBER
+	detected entity: 	US Centers for Disease Control and Prevention	ORGANIZATION
+	detected entity: 	3	NUMBER
+	detected entity: 	1	NUMBER
+	detected entity: 	45	NUMBER
+	detected entity: 	18	NUMBER
+	detected entity: 	55	NUMBER
+	detected entity: 	two	NUMBER
+	detected entity: 	28 days	DURATION
+	detected entity: 	Kaiser Permanente	ORGANIZATION
+	detected entity: 	Seattle	LOCATION
+	detected entity: 	Emory University	ORGANIZATION
+	detected entity: 	Atlanta	LOCATION
+	detected entity: 	25	NUMBER
+	detected entity: 	100	NUMBER
+	detected entity: 	250	NUMBER
+	detected entity: 	first	ORDINAL
+	detected entity: 	March 16	DATE
+	detected entity: 	April 14	DATE
+	detected entity: 	first	ORDINAL
+	detected entity: 	Jackson	PERSON
+	detected entity: 	one	NUMBER
+	detected entity: 	two	NUMBER
+	detected entity: 	first	ORDINAL
+	detected entity: 	five	NUMBER
+	detected entity: 	25-microgram	NUMBER
+	detected entity: 	10	NUMBER
+	detected entity: 	100-microgram	NUMBER
+	detected entity: 	eight	NUMBER
+	detected entity: 	250-microgram	NUMBER
+	detected entity: 	second	ORDINAL
+	detected entity: 	seven	NUMBER
+	detected entity: 	13	NUMBER
+	detected entity: 	25-microgram	NUMBER
+	detected entity: 	15	NUMBER
+	detected entity: 	100-microgram	NUMBER
+	detected entity: 	14	NUMBER
+	detected entity: 	250-microgram	NUMBER
+	detected entity: 	three	NUMBER
+	detected entity: 	one	NUMBER
+	detected entity: 	following second	DATE
+	detected entity: 	100-microgram	NUMBER
+	detected entity: 	80%	PERCENT
+	detected entity: 	80%	PERCENT
+	detected entity: 	60%	PERCENT
+	detected entity: 	53%	PERCENT
+	detected entity: 	Moderna	LOCATION
+	detected entity: 	two	NUMBER
+	detected entity: 	Jackson	PERSON
+	detected entity: 	two	NUMBER
+	detected entity: 	she	PERSON
+	detected entity: 	Paul Offit	PERSON
+	detected entity: 	NIH	ORGANIZATION
+	detected entity: 	United States	LOCATION
+	detected entity: 	45	NUMBER
+	detected entity: 	20 million	NUMBER
+	detected entity: 	200 million	NUMBER
+	detected entity: 	United States	LOCATION
+	detected entity: 	Offit	PERSON
+	detected entity: 	Vaccine Education Center	ORGANIZATION
+	detected entity: 	Division of Infectious Diseases	MISC
+	detected entity: 	Children's Hospital	ORGANIZATION
+	detected entity: 	Philadelphia	LOCATION
+	detected entity: 	he	PERSON
+	detected entity: 	3	NUMBER
+	detected entity: 	Moderna	ORGANIZATION
+	detected entity: 	US	LOCATION
+	detected entity: 	late July	DATE
+	detected entity: 	1	NUMBER
+	detected entity: 	3	NUMBER
+	detected entity: 	1	NUMBER
+	detected entity: 	100	NUMBER
+	detected entity: 	3	NUMBER
+	detected entity: 	Tal Zaks	PERSON
+	detected entity: 	Moderna	LOCATION
+	detected entity: 	Tuesday	DATE
+	detected entity: 	3	NUMBER
+	detected entity: 	COVID-19	MISC
+	detected entity: 	he	PERSON
+	detected entity: 	3	NUMBER
+	detected entity: 	30,000	NUMBER
+	detected entity: 	One	NUMBER
+	detected entity: 	100	NUMBER
+	detected entity: 	day	DURATION
+	detected entity: 	1	NUMBER
+	detected entity: 	day	DURATION
+	detected entity: 	29	NUMBER
+	detected entity: 	A second	DURATION
+	detected entity: 	two	NUMBER
+	detected entity: 	Fourteen days	DURATION
+	detected entity: 	second	ORDINAL
+	detected entity: 	two years	DURATION
+	detected entity: 	second	ORDINAL
+	detected entity: 	87	NUMBER
+	detected entity: 	United States	LOCATION
+	detected entity: 	Moderna	PERSON
+	detected entity: 	one	NUMBER
+	detected entity: 	23	NUMBER
+	detected entity: 	World Health Organization	ORGANIZATION
+	detected entity: 	Penny Heaton	PERSON
+	detected entity: 	Bill	PERSON
+	detected entity: 	Melinda Gates Foundation	ORGANIZATION
+	detected entity: 	1	NUMBER
+	detected entity: 	Tuesday	DATE
+	detected entity: 	1	NUMBER
+	detected entity: 	now	DATE
+	detected entity: 	6 years	DURATION
+	detected entity: 	6 months	DURATION
+	detected entity: 	Heaton	PERSON
+	detected entity: 	6	NUMBER
+	detected entity: 	CNN	ORGANIZATION
+	detected entity: 	Elizabeth Cohen	PERSON

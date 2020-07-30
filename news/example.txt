@@ -1,0 +1,72 @@
+	(CNN)A Covid-19 vaccine developed by the biotechnology company Moderna in partnership with the National Institutes of Health has been found to induce immune responses in all of the volunteers who received it in a Phase 1 study.
+
+	These early results, published in the New England Journal of Medicine on Tuesday, showed that the vaccine worked to trigger an immune response with mild side effects -- fatigue, chills, headache, muscle pain, pain at the injection site -- becoming the first US vaccine candidate to publish results in a peer-reviewed medical journal.
+
+	The vaccine is expected to begin later this month a large Phase 3 trial -- the final trial stage before regulators consider whether to make the vaccine available.
+
+	Moderna noted in a press release on Tuesday that, if all goes well in future studies, "the Company remains on track to be able to deliver approximately 500 million doses per year, and possibly up to 1 billion doses per year, beginning in 2021."
+
+	In the Phase 1 study, "the goal was to look at safety and then to look at immune responses," said Dr. Lisa Jackson, a senior investigator at Kaiser Permanente Washington Health Research Institute in Seattle who was involved in the study. Early data from the study previously was released in May.
+
+	"We thought the immune responses look promising, but we don't know whether the levels we're seeing would actually protect against infection. It's really hard to know that until you do the actual efficacy trial," she said. "So we're laying the groundwork for the trial that will provide those answers."
+
+	Moderna expects to start the company's largest study yet of its Covid-19 vaccine candidate mRNA-1237 on July 27, according to details released separately on Tuesday. It's expected to be the first in the United States to begin Phase 3 trials.
+
+	For now, the new study "provided information rapidly that could be used to determine what dose to go forward with Phase 2 and Phase 3 trials. That's a critically important decision to make and so having that information available so soon after the vaccine trial was initiated is pretty remarkable," Jackson said.
+
+	A Phase 1 study typically studies a small number of people and focuses on whether a vaccine is safe and elicits an immune response.
+
+	In Phase 2, the clinical study is expanded and the vaccine is given to people who have characteristics -- such as age and physical health -- similar to those for whom the new vaccine is intended, according to the US Centers for Disease Control and Prevention. In Phase 3, the vaccine is given to thousands of people and tested for efficacy and again for safety.
+
+	'We want to know whether the vaccine is safe and effective'
+
+	The Phase 1 study included 45 healthy adults, ages 18 to 55, who received two vaccinations of the mRNA-1237 vaccine candidate 28 days apart. Some of the volunteers enrolled in the trial at Kaiser Permanente in Seattle and others at Emory University in Atlanta.
+
+	The volunteers were separated into groups where they either received the vaccine at a dose of 25, 100 or 250 micrograms. They received their first vaccination between March 16 and April 14.
+
+	"The first dose sort of sets the immune system up, it's called priming," Jackson said. "So that when you then administer the same thing again, there's a booster response. There's an augmented response. So we did not think that one vaccination would be sufficient to get the level of response that we wanted to see."
+
+	The researchers found "no trial-limiting safety concerns" after volunteers received their two doses of vaccine, but there were some mild to moderate side effects, such as some pain at the injection site, and there were more of those the higher the dose of the vaccine.
+
+	After the first vaccination, adverse events were reported by five participants in the 25-microgram group, 10 in the 100-microgram group, and eight in the 250-microgram group. Then after the second vaccination, such events occurred in seven of 13 participants in the 25-microgram group, all 15 in the 100-microgram group, and all 14 in the 250-microgram group, with three of those participants reporting "one or more severe events," according to the study.
+
+	The most commonly reported systemic adverse events following second vaccination at the 100-microgram dose were fatigue, among 80%; chills, among 80%; headache, among 60%; and myalgia or muscle pain, among 53%; all of which were transient and mild or moderate in severity, as noted in Moderna's press release.
+
+	The study data also showed that the vaccine induced an antibody response. Antibodies are the proteins the body makes to fight infection.
+
+	Specifically, all participants developed neutralizing antibodies to the virus at levels similar to those seen in people who've naturally recovered from Covid-19, according to the study. Neutralizing antibodies bind to the virus, disabling it from attacking human cells.
+
+	The researchers measured two types of immune responses, Jackson said.
+
+	"Those two types of responses support each other. We know that the antibodies are being produced and it appears that there's function after vaccination that serves to block the ability of the virus to enter cells. So it neutralizes the activity of the virus," she said.
+
+	But more research is needed.
+
+	"What do we really want to know? We want to know whether the vaccine is safe and effective, that's what we want to know," said Dr. Paul Offit, a member of the NIH panel that's setting a framework for vaccine studies in the United States, who was not involved in the new study.
+
+	With the study, "we know that it's safe in 45 people, which is not going to be the 20 million people or 200 million people who are going to get it here in the United States," said Offit, who is also director of the Vaccine Education Center and an attending physician in the Division of Infectious Diseases at Children's Hospital of Philadelphia.
+
+	"So we know that it doesn't have a very common side effect problem, that's what we know," he said. "Then we don't know anything about efficacy, which is what we really want to know. Is this vaccine going to work? The only way to know that is to do a so-called Phase 3 trial."
+
+	Moderna expects to start large US Covid-19 vaccine trial in late July
+
+	Results from the Phase 1 study can help guide what the Phase 3 study looks like.
+
+	"These Phase 1 data demonstrate that vaccination with mRNA-1273 elicits a robust immune response across all dose levels and clearly support the choice of 100 μg in a prime and boost regimen as the optimal dose for the Phase 3 study," Dr. Tal Zaks, chief medical officer of Moderna, said in the company's press release on Tuesday.
+
+	"We look forward to beginning our Phase 3 study of mRNA-1273 to demonstrate our vaccine's ability to significantly reduce the risk of COVID-19 disease," he said.
+
+	For the Phase 3 study, researchers plan to enroll 30,000 adult participants, including people whose locations or circumstances put them at high-risk of infection. One group will be injected with 100 micrograms of the vaccine on day 1 and again on day 29. A second group will be injected with two doses of a placebo for comparison.
+
+	Fourteen days after the participants get their second dose, the researchers will be looking at whether they develop Covid-19. The participants will be followed for two years after receiving their second dose.
+
+	The study will be conducted at 87 locations across the United States.
+
+	Moderna's vaccine candidate is one of 23 in clinical trials around the world, according to the World Health Organization.
+
+	Overall, "the safety and immunogenicity data in this preliminary report are promising, and they support continued development of this vaccine. However, we must bear in mind the complexity of vaccine development and the work still to be done before Covid-19 vaccines are widely available," Dr. Penny Heaton, chief executive officer of the Bill and Melinda Gates Foundation, wrote in an editorial accompanying the Phase 1 study in the New England Journal of Medicine on Tuesday.
+
+	"Accelerating the development of Covid-19 vaccine candidates beyond phase 1 depends on continued parallel tracking of activities and fulsome resources. The world has now witnessed the compression of 6 years of work into 6 months," Heaton wrote. "Can the vaccine multiverse do it again, leading to a reality of a safe, efficacious Covid-19 vaccine for the most vulnerable in the next 6?"
+
+	CNN's Elizabeth Cohen contributed to this report.
+
